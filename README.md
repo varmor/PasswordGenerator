@@ -51,7 +51,7 @@ python manage.py runserver
 
 The project follows a typical Django project structure, consisting of the following main components:
 
-- **`password_generator`**: This is the main project directory. It contains the project settings and configuration files.
+- **`PasswordGenerator`**: This is the main project directory. It contains the project settings and configuration files.
 
 - **`Generator`**: This is the Django app responsible for generating passwords. It includes the views, models, templates, and forms related to password generation.
 
